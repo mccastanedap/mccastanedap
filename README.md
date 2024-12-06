@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Melissa
-- 👀 I’m interested in frontend development and data engineer
-- 🌱 I’m currently learning flutter 
+- 👀 I’m interested in data engineer and AI engineer
+- 🌱 I’m currently learning more about AWS Architecture
 - 💞️ I’m looking to collaborate on any project to get better at my skills of programmming
 - 📫 How to reach me through my email melissa.c.castaneda.p@gmail.com
 
