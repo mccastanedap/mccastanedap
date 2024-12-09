@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Melissa
-- 👀 I’m interested in data engineer and AI engineer
-- 🌱 I’m currently learning more about AWS Architecture
-- 💞️ I’m looking to collaborate on any project to get better at my skills of programmming
-- 📫 How to reach me through my email melissa.c.castaneda.p@gmail.com
+-👋 Hi, I’m Melissa!
+-👀 I’m passionate about data engineering and AI development.
+-🌱 Currently, I’m deepening my knowledge of AWS Architecture.
+-💞️ I’m eager to collaborate on exciting projects to further enhance my programming skills.
+-📫 Feel free to reach out to me via email at melissa.c.castaneda.p@gmail.com.
 
 <!---
 mccastanedap/mccastanedap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
